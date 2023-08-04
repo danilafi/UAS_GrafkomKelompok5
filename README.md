@@ -8,7 +8,7 @@
 | Kelas | TI-4B |
  
 
-# Projeck UAS
+# PROJECK UAS
 |  |  |
 |--|--|
 |Judul |SCORE FINDER GAME|

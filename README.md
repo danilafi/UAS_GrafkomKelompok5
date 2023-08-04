@@ -8,11 +8,11 @@
 | Kelas | TI-4B |
  
 
-## Judul
-
+# Projeck UAS
 |  |  |
 |--|--|
-|Nama |SCORE FINDER GAME|
+|Judul |SCORE FINDER GAME|
+|Link Youtube ||
 
 
 ### SCREENSHOT PROGRAM

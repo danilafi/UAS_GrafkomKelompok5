@@ -2,10 +2,11 @@
 
 |  |  |
 |--|--|
-| NIM | **21104410074 |
-| Nama Lengkap | *Danila Fitria* |
+| Nama  | Danila Fitria | NIM | 21104410074 |
+| Nama  | Alya Rahmania | NIM | 21104410082 |
+| Nama  | Berlia Dwi P | NIM | 21104410084 |
 | Kelas | TI-4B |
-| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
+ 
 
 ## SISTEM OPERASI
 Fitur ( Conv )

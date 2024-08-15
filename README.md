@@ -12,7 +12,7 @@
 |  |  |
 |--|--|
 |Judul |SCORE FINDER GAME|
-|Link Youtube ||
+|Demo|https://editor.p5js.org/danilafi/sketches/3wy2OHvmS|
 
 
 ### SCREENSHOT PROGRAM
